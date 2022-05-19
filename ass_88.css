@@ -1,0 +1,59 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+header {
+    /* display: block; */
+    background-color: rgb(219, 206, 83);
+    padding: 20px;
+    margin: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: red;
+    /* font-size: 800; */
+}
+
+footer {
+    background-color: rgb(219, 206, 83);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 15px;
+}
+
+footer a {
+    padding: 5px;
+    color: red;
+}
+
+.bat {
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: blue;
+
+}
+
+div a {
+    color: aqua;
+    text-decoration: none;
+}
+
+.bat :hover {
+    background-color: yellowgreen;
+    color: black;
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/197277.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: 50% 50%;
+}
